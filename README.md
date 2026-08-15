@@ -1,7 +1,6 @@
-### Hi there 👋
+### 안녕하세요 플러터 개발자 김민우입니다 👋
 
-- 🔭 I'm currently working on **MoodLog** (Flutter 감정 기록 앱) and **GETI-App**
-- 💻 Languages: **Dart**, **Python**
+- 💻 Languages: **Dart**, 
 - 🧰 Tools: **Android Studio**, **VS Code**, **Git**
 - 🌱 Learning Flutter by building real projects
 
