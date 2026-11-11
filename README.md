@@ -66,21 +66,7 @@
 
 <br>
 
-## 📂 다른 프로젝트
 
-| 프로젝트 | 설명 |
-|---|---|
-| 🏀 [**OnCourt_app**](https://github.com/minwoo0708/OnCourt_app) | 온코트 레전드 농구 기록 앱 |
-| 📝 [**TIL-minwoo**](https://github.com/minwoo0708/TIL-minwoo) | Dart 문법, Git 사용법 등 배운 것을 정리한 TIL |
-| 🧩 [**coding-test**](https://github.com/minwoo0708/coding-test) | 백준 문제 풀이 (자동 업로드) |
-| 📚 [**flutter_study**](https://github.com/minwoo0708/flutter_study) | Flutter 공부용 저장소 |
-
-<br>
-
-## 🌱 요즘 하는 것
-
-- Flutter 앱과 Spring Boot 서버를 함께 만들며 **풀스택 흐름** 익히기
-- 서버 **배포와 CI(GitHub Actions)** 에 도전할 예정
 
 <br>
 
