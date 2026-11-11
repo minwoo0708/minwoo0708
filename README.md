@@ -27,7 +27,7 @@
 
 | 저장소 | 역할 | 기술 |
 |---|---|---|
-| 📱 [**PLIVIEW_app**](https://github.com/minwoo0708/PLIVIEW_app) | 안드로이드 앱 + 웹 (Flutter 하나로) | Flutter · Dart · Riverpod · Dio · PKCE 로그인 |
+| 📱 [**PLIVIEW_app**](https://github.com/minwoo0708/PLIVIEW_app) | 안드로이드 앱 (Flutter) | Flutter · Dart · Riverpod · Dio · PKCE 로그인 |
 | 🍃 [**PLIVIEW_server**](https://github.com/minwoo0708/PLIVIEW_server) | REST API 29개 · 회원 · 리뷰 · 통계 · Spotify 연동 | Java 21 · Spring Boot 4 · Security(JWT) · JPA · MySQL · Flyway |
 
 **만들면서 신경 쓴 것**
